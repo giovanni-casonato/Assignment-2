@@ -1,4 +1,4 @@
-# Assignment-2
+# Hebbian Rule part 2
 CMPG-765/CMPT- 465 Neural Networks and Learning Systems
 Homework-2
 1. Design a program, which, applies the Hebbian learning rule to the input/output mappings
